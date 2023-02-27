@@ -1,0 +1,3 @@
+[submodule "rails-app"]
+	path = rails-app
+	url = ssh://git@www.yatex.org:29418/RinoIto/rails-app.git
